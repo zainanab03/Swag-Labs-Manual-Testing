@@ -67,7 +67,39 @@ The application should allow users to sort products by:
 - Price High to Low.
 
 ### REQ-04-Shopping Cart
+The application should allow users to:
+- Add products to the cart.
+- View products in the cart.
+- Remove products from the cart.
+- See the correct item count and information.
+- continue shopping.
+- proceed to checkout.
 
+### REQ-05-Checkout
+The application should allow users to:
+- Open the checkout page.
+- Enter first name.
+- Enter last name.
+- Enter postal code.
+- Continue to order overview.
+- Validate required information.
+
+### REQ-06-Order Processing
+The application should allow users to:
+- Review selected product.
+- Review prices.
+- Review order information.
+- Complete an order.
+- Display an order confirmation.
+- Return to the products page.
+
+### REQ-07-Navigation
+The application should allow users to:
+- Open the navigation menu.
+- Navigate to all items.
+- Navigate to about page.
+- Log out.
+- Reset application state.
 
 
 
