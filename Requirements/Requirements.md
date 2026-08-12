@@ -26,4 +26,16 @@ The following areas will be covered during testing:
 - Reset app functionality.
 - UI elements related to the above features.
 
+### Out of scope:
+- API testing.
+- Database testing.
+- Performance and load testing.
+- Security penetration testing.
+- Code testing.
+- Mobile application testing.
+- Accessibility testing as a dedicated testing activity.
+- Extensive cross-browser compatibility testing.w
+
+  
+
 
