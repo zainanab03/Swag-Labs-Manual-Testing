@@ -37,7 +37,7 @@ The following areas will be covered during testing:
 - Extensive cross-browser compatibility testing.
 
 
-## OUR REQUIREMENTS:
+## 3. OUR REQUIREMENTS:
 ### REQ-01-User Authentication
 The application should allow users to:
 - Enter username.
@@ -101,6 +101,14 @@ The application should allow users to:
 - Log out.
 - Reset application state.
 
+
+## 4. TEST ENVIRONMENT:
+#### Application: Swag Labs.
+#### Testing Type: Manual.
+#### Browser: Microsoft Edge.
+#### Operating System: Windows.
+#### Environment: Web Application.
+#### Test Data: Swag Labs provided test accounts.
 
 
 
