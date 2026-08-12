@@ -34,8 +34,44 @@ The following areas will be covered during testing:
 - Code testing.
 - Mobile application testing.
 - Accessibility testing as a dedicated testing activity.
-- Extensive cross-browser compatibility testing.w
+- Extensive cross-browser compatibility testing.
 
-  
+
+## OUR REQUIREMENTS:
+### REQ-01-User Authentication
+The application should allow users to:
+- Enter username.
+- Enter password.
+- Log in using valid credentials.
+- Reject invalid credentials.
+- display error messages.
+- Prevent locked-up users from accessing the application.
+- log out successfully.
+
+### REQ-02-Product Catalog
+The application should allow users to:
+- View the product page.
+- View available products.
+- View product names.
+- View product images.
+- View product descriptions.
+- View product prices.
+- Open product details.
+- Return to the product page.
+
+### REQ-03-Product Sorting
+The application should allow users to sort products by:
+- Name A to Z.
+- Name Z to A.
+- Price Low to High.
+- Price High to Low.
+
+### REQ-04-Shopping Cart
+
+
+
+
+
+
 
 
