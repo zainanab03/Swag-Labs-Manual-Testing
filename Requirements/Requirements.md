@@ -110,6 +110,15 @@ The application should allow users to:
 #### Environment: Web Application.
 #### Test Data: Swag Labs provided test accounts.
 
+## 5. ASSUMPTIONS:
+- The application is accessible and available for testing.
+- Testing is performed using Edge on Windows.
+- Swag Labs test accounts provided by the application are available.
+- Test credentials are assumed to be valid unless the test specifically checks invalid credentials.
+- Testing is performed through the application's UI.
+- No real customer data or transactions are involved.
+- Functionality is evaluated based on the application's intended behavior.
+
 
 
 
