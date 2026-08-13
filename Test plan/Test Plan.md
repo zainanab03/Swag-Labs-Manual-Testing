@@ -100,6 +100,14 @@ Testing can begin when the following conditions are satisfied:
 - The tester has access to the application and required test accounts.
 
 ## 7. EXIT CRITERIA:
+Testing will be considered complete when the following conditions are satisfied:
+- All planned test cases have been executed.
+- Test execution results have been recorded.
+- Failed test cases have corresponding defect reports where applicable.
+- Identified defects have been documented with appropriate severity and priority.
+- The main functional areas within the defined scope have been covered.
+- Test execution results have been reviewed.
+- The final test summary report has been completed.
 
 
 
