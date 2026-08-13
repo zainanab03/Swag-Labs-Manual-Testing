@@ -1,8 +1,39 @@
 # SWAG LAPS TEST PLAN
 
-## TEST PLAN OBJECTIVE:
+## 1. TEST PLAN OBJECTIVE:
 The test plan objective is to define the approach, scope, resources, criteria, and activities required to manually test the Swag Labs web application. The testing aims to verify that the application's main functional features work as expected and to identify and document any defects found during testing.
 
-## TEST SCOPE:
+## 2. TEST SCOPE:
+
+### 2.1 In Scope:
+The following areas of the Swag Labs web application will be covered during testing:
+- User authentication and login
+- Login validation and error handling
+- Product catalog and product information
+- Product sorting
+- Product details
+- Adding and removing products from the shopping cart
+- Shopping cart functionality
+- Checkout information and validation
+- Order overview and order completion
+- Order confirmation
+- Navigation and menu functionality
+- Logout functionality
+- Reset App State functionality
+- User interface elements related to the above features
+
+### 2.2 Out of Scope:
+The following areas are excluded from this testing project:
+- API testing
+- Database testing
+- Performance and load testing
+- Security penetration testing
+- Source code testing
+- Mobile application testing
+- Dedicated accessibility testing
+- Extensive cross-browser compatibility testing
+
+## 3. TEST APPROACH / TEST STRATEGY
+
 
 
