@@ -109,6 +109,14 @@ Testing will be considered complete when the following conditions are satisfied:
 - Test execution results have been reviewed.
 - The final test summary report has been completed.
 
+## 8. Risks and Mitigation
 
+| Risk | Impact | Mitigation |
+|---|---|---|
+| Application is unavailable | Testing may be delayed or blocked | Retry testing later and document the interruption if required |
+| Internet or network issues | Tests may fail or produce misleading results | Verify network connectivity and repeat affected tests once stable |
+| Browser or environment issues | Test results may be affected by the testing environment | Verify the browser and environment before testing and record environment details for defects |
+| Application behavior or UI changes | Existing test cases may become outdated | Record the testing date and update affected test cases when necessary |
+| Different test account behaviors may be misunderstood | Expected behavior may be incorrectly reported as a defect | Review the purpose and expected behavior of each test account before reporting defects |
 
 
