@@ -119,4 +119,15 @@ Testing will be considered complete when the following conditions are satisfied:
 | Application behavior or UI changes | Existing test cases may become outdated | Record the testing date and update affected test cases when necessary |
 | Different test account behaviors may be misunderstood | Expected behavior may be incorrectly reported as a defect | Review the purpose and expected behavior of each test account before reporting defects |
 
-
+## 9. Test Deliverables
+The following deliverables will be produced as part of the testing project:
+- Functional Requirements Specification (FRS)
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Test Data
+- Test Execution Results
+- Bug Reports
+- Requirements Traceability Matrix (RTM)
+- Test Summary Report
+- Screenshots and test evidence where applicable
