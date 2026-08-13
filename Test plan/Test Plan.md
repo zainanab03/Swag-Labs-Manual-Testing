@@ -89,5 +89,18 @@ The following test data will be used during testing of the Swag Labs web applica
 - Empty required fields
 - Invalid input where applicable
 
+## 6. ENTRY CRITERIA:
+Testing can begin when the following conditions are satisfied:
+- The Swag Labs web application is accessible and available for testing.
+- The testing scope and requirements have been defined.
+- The test environment is available and configured.
+- Test scenarios and test cases have been prepared.
+- Required test data is available.
+- The selected browser is installed and functioning correctly.
+- The tester has access to the application and required test accounts.
+
+## 7. EXIT CRITERIA:
+
+
 
 
