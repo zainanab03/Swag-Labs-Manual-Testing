@@ -57,7 +57,14 @@ our test strategy will be:
 Where applicable.
 
 ## 4. TEST ENVIRONMENT:
-
+The Swag Labs web application will be tested in the following environment:
+- Application: Swag Labs.
+- Application Type: Web Application.
+- Testing Method: Manual Testing.
+- Operating System: Windows.
+- Browser: Microsoft Edge.
+- Internet Connection: Required.
+- Test Data: Swag Labs-provided test accounts.
 
 
 
