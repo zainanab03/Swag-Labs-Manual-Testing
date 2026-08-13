@@ -66,5 +66,28 @@ The Swag Labs web application will be tested in the following environment:
 - Internet Connection: Required.
 - Test Data: Swag Labs-provided test accounts.
 
+## 5. TEST DATA:
+The following test data will be used during testing of the Swag Labs web application:
+
+### Authentication Data
+- Valid username and password
+- Invalid username and/or password
+- Empty username and/or password
+- Credentials for a locked-out user
+- Credentials for users with specific application behaviors
+
+### Product Data
+- Available products
+- Product names
+- Product prices
+- Product sorting options
+
+### Checkout Data
+- Valid first name
+- Valid last name
+- Valid postal code
+- Empty required fields
+- Invalid input where applicable
+
 
 
