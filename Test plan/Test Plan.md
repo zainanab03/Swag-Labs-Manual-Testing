@@ -33,7 +33,31 @@ The following areas are excluded from this testing project:
 - Dedicated accessibility testing
 - Extensive cross-browser compatibility testing
 
-## 3. TEST APPROACH / TEST STRATEGY
+## 3. TEST STRATEGY / TEST APPROACH:
+our test strategy will be:
+### Testing Approach:
+- Manual testing.
+- Black-box testing.
+
+### Test Types:
+- Functional testing.
+- UI testing.
+- Smoke testing.
+- Exploratory testing.
+
+### Test Conditions:
+- Positive testing.
+- negative testing.
+
+### Test Design Techniques:
+- Equivalence Partitioning.
+- Boundary value analysis.
+- Decision table testing.
+- State transition testing.
+Where applicable.
+
+## 4. TEST ENVIRONMENT:
+
 
 
 
