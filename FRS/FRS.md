@@ -74,6 +74,7 @@ The application should allow users to:
 - See the correct item count and information.
 - continue shopping.
 - proceed to checkout.
+- Handling checkout when cart is empty.
 
 ### REQ-05-Checkout
 The application should allow users to:
